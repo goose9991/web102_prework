@@ -23,7 +23,7 @@ Floating Glass Navbar
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/vu0BKqq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](./web102_prework.gif)
 
 
 GIF created with ...  ScreenToGif
